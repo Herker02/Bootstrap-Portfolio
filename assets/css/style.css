@@ -108,9 +108,11 @@ footer {
   background: #666666;
   border-top: 8px solid #4aaaa5;
   height: 50px;
-  position: relative;
-  bottom: 0;
-  width: 100%;
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
 }
 
 h3, h2 {
